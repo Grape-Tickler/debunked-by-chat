@@ -9,12 +9,12 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Debunked by Chat`,
+    title: `Snark Brain`,
     author: {
-      summary: `A collection of information to combat the disinformation campaign against H3, Ethan and Hila Klein.`,
+      summary: `Snark Brain (snärk brān) /noun/ — The state of having your head so far up Hasan Piker's ass that you can't see the truth.`,
     },
-    description: `A collection of information to combat the disinformation campaign against H3, Ethan and Hila Klein.`,
-    siteUrl: `https://debunkedbychat.com/`,
+    description: `A collection of information to combat the disinformation campaign against the H3 Podcast, Ethan Klein, and Hila Klein.`,
+    siteUrl: `https://snarkbrain.com/`,
   },
   plugins: [
     `gatsby-plugin-image`,
