@@ -25,7 +25,7 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        Built with ✌️&💜 by <a href="https://www.reddit.com/user/GrapeTickler/" target="_blank" rel="noopener noreferrer" textDecoration="none" >🍇🤗</a>
+        Built with ✌️&💜 by <a href="https://www.reddit.com/user/GrapeTickler/" target="_blank" rel="noopener noreferrer" textDecoration="none" >(🍇🤗)</a>, (🔫🐻), & (👃🇬🇷)
         {` `}
         
       </footer>
