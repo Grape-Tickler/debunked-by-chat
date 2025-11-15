@@ -7,7 +7,6 @@
 
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -26,15 +25,14 @@ const Bio = () => {
     }
   `)
 
-  // Set these values by editing "siteMetadata" in gatsby-config.js
-  const author = data.site.siteMetadata?.author
-  const social = data.site.siteMetadata?.social
-
   return (
     <div className="bio">
-        <p>
-          {author?.summary || null}
-        </p>
+        <div className="definition-entry">
+          <a className="headword">Snark Brain</a>
+          <span className="pronunciation"> (snärk brān) </span> 
+          <span class="part-of-speech"> n. </span>
+          <span className="definition-list">A pejorative term for a collective online mindset characterized by pervasive cynicism and the systematic distortion of truth, used to organize and justify coordinated hate campaigns against an online creator.</span>
+        </div>
     </div>
   )
 }
