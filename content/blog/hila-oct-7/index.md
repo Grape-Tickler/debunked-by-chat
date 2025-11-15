@@ -26,7 +26,13 @@ description: "Did Hila deny that the IDF was killing innocent Palestinian civili
 
    > "What was being said is that after October 7th, the horrors that happened on October 7th... they are saying *(referring to the chatter)* that the IDF does that on the daily, I am denying that"
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/mf93q3?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%">
+  <video 
+    controls 
+    src="./hila-oct-7-clip1-O86fRRS3I1g.mp4" 
+    style="position:absolute; width:100%; height:100%; left:0px; top:0px; border:none; overflow:hidden;">
+  </video>
+</div>
 
 ## Conclusion
 
