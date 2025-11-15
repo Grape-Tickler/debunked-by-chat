@@ -15,10 +15,10 @@ description: "Did Ethan sexually harass a minor boston bombing victim?"
 
 ## Truth
 
-* The young woman in the picture is not a minor. You can view the caption of the article this image was pulled from to see that she was 18 at the time of the picture [2](https://www.buzzfeednews.com/article/tasneemnashrulla/xx-inspiring-messages-from-the-boston-marathon-survivors-to). Another article corroborates that she was 18 while she was in the hospital [3](https://www.lowellsun.com/2013/04/24/from-one-victim-to-another-happy-birthday/).
 * Ethan made a crass video mocking "edgy" people on the internet that were making inappropriate jokes. In the video, he visibly has flour on his nose to pretend it is a coke fueled rant, further emphasizing the satirical nature of the video.
-* Ethan took down the video in 2016 and apologized publicly multiple times for the incident. [4](https://www.youtube.com/watch?v=OvO4Q5Nc8wY&t=9410s)
+* Ethan took down the video in 2016 and apologized publicly multiple times for the incident. [2](https://www.youtube.com/watch?v=OvO4Q5Nc8wY&t=9410s)
+* The young woman in the picture is not a minor. You can view the caption of the article this image was pulled from to see that she was 18 at the time of the picture [3](https://www.buzzfeednews.com/article/tasneemnashrulla/xx-inspiring-messages-from-the-boston-marathon-survivors-to). Another article corroborates that she was 18 while she was in the hospital [4](https://www.lowellsun.com/2013/04/24/from-one-victim-to-another-happy-birthday/).
 
 ## Conclusion
 
-* Ethan made a very offensive and gross commentary video 12 years ago. His intent was mocking people that were seriously making these disgusting comments. In the video, he lampooned comments that were being made towards a specific photo of a victim that was posted on Reddit. He apologized for it and took the video down in 2016. The girl in the picture was not a minor.
+* Ethan made a very offensive commentary video 12 years ago. His intent was mocking people that were seriously making these disgusting comments. In the video, he lampooned comments that were being made towards a specific photo of a victim that was posted on Reddit. He apologized for it and took the video down in 2016. The girl in the picture was not a minor.
