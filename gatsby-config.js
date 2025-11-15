@@ -9,9 +9,9 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Snark Brain`,
+    title: `H3 Snark Myths`,
     author: {
-      summary: `Snark Brain (snärk brān) /noun/ — The state of having your head so far up Hasan Piker's ass that you can't see the truth.`,
+      summary: `H3 Snark is a coordinated group of people online that warp the truth and have disinformation campaigns about Ethan Klein and Hila Klein. Their goal is to deplatform the H3 Podcast under the guise of Palestinian activism. Their true motivation is that the Kleins are outspoken critiques of Hasan Piker.`,
     },
     description: `A collection of information to combat the disinformation campaign against the H3 Podcast, Ethan Klein, and Hila Klein.`,
     siteUrl: `https://snarkbrain.com/`,
