@@ -21,4 +21,4 @@ description: "Did Ethan sexually harass a minor boston bombing victim?"
 
 ## Conclusion
 
-* Ethan made a very offensive and gross video 12 years ago. His intent was mocking people that were seriously making these disgusting comments. He apologized for it and took the video down. The girl in the video was not a minor.
+* Ethan made a very offensive and gross commentary video 12 years ago. His intent was mocking people that were seriously making these disgusting comments. In the video, he lampooned comments that were being made towards a specific photo of a victim that was posted on Reddit. He apologized for it and took the video down. The girl in the picture was not a minor.
