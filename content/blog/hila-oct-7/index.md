@@ -29,7 +29,7 @@ description: "Did Hila deny that the IDF was killing innocent Palestinian civili
 <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%">
   <video 
     controls 
-    src="/videos/hila-oct-7-clip.mp4"
+    src="/videos/hila-oct7-clip.mp4"
     style="position:absolute; width:100%; height:100%; left:0px; top:0px; border:none; overflow:hidden;">
   </video>
 </div>
