@@ -12,7 +12,7 @@ description: "Did Hila deny that the IDF was killing innocent Palestinian civili
 
 ## Myth
 
-* During their discussion about the October 7th attacks, Hila interjected by stating that she does in fact deny that. She was quoted as saying "I am, I am denying that". [[3]](https://www.reddit.com/r/h3snark/comments/1749jmg/hila_klein_i_am_im_denying_that/)
+* During their discussion about the October 7th attacks, Hila interjected by stating that she denies that the IDF commits acts of violence against Palestinians. She was quoted as saying "I am, I am denying that". [[3]](https://www.reddit.com/r/h3snark/comments/1749jmg/hila_klein_i_am_im_denying_that/)
 
 ## Reality
 
