@@ -6,7 +6,7 @@ description: "Did Ethan sexually harass a teenage boston bombing victim?"
 ## Background
 
 * [/r/braveryjerk](https://www.reddit.com/r/Braveryjerk/) is a subreddit dedicated to mocking Redditors who make controversial/edgy posts in the vein of it being a "brave" opinion.
-* Over 11 years ago, when the H3 podcast had 4k subscribers, Ethan made a video to be posted on the subreddit. In the video, Ethan was mocking people who had "brave" opinions on the Boston Marathon Bombing victims.
+* Over 11 years ago, when the h3h3Productions channel had just 4k subscribers, Ethan made a video to be posted on the subreddit. In the video, Ethan was mocking people who had "brave" opinions on the Boston Marathon Bombing victims.
 * [This post](https://www.reddit.com/r/pics/comments/22wjk1/boston_marathon_bombing_survivors_return_to/?sort=controversial) was one of the main examples. You can see that the controversial comments are quite inflammatory and disturbing. [1](https://imgur.com/a/csoJsn2)
 
 ## Myth
