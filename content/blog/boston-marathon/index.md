@@ -11,7 +11,7 @@ description: "Did Ethan sexually harass a minor boston bombing victim?"
 
 ## Lie
 
-* Ethan sexually harassed a Boston Marathon victim who was a minor.
+Ethan sexually harassed a Boston Marathon victim who was a minor.
 
 ## Truth
 
