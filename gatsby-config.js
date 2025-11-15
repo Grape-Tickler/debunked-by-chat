@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `H3 Snark Myths`,
+    title: `H3 Snark Lies`,
     author: {
       summary: `H3 Snark is a coordinated group of people online that warp the truth and have disinformation campaigns about Ethan Klein and Hila Klein. Their goal is to deplatform the H3 Podcast under the guise of Palestinian activism. Their true motivation is that the Kleins are outspoken critiques of Hasan Piker.`,
     },

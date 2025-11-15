@@ -14,14 +14,14 @@ Hila's Comment About Yoav Gallant
 * On November 6th, 2024 Donald Trump was elected president of the United States.[3](https://www.pbs.org/newshour/politics/donald-trump-elected-47th-president-of-the-united-states)
 
   
-## Snark
+## Lie
 
 Hila praised Yoav Gallant's character while knowing his role in the violence against the Palestinians.
 
 
 ## Truth
 
-* During a discussion about Donald Trump’s stance on Israel, Hila noted that Netanyahu fired Yoav Gallant after they had disagreements
+* During a discussion about Donald Trump’s stance on Israel, Hila noted that Netanyahu fired Yoav Gallant after they had disagreements about whether the IDF should have a presence in Gaza.
 * Hila compared that situation to Trump’s habit of dismissing officials who disagree with him. She described Gallant as a "really good guy", and Ethan added that they’d read he’s regarded as a "moderating voice" in the conflict, which supports her view. [4](https://www.youtube.com/watch?v=8aBch1GPY08&t=219)
 - Ethan and Hila publish a video clarifying their comments [5](https://www.youtube.com/watch?v=telKFaTvQqU) :
     - Ethan denounces Gallant's use of dehumanizing and genocidal language towards the Palestinians.

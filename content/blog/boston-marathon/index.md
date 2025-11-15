@@ -9,7 +9,7 @@ description: "Did Ethan sexually harass a minor boston bombing victim?"
 * Over 12 years ago, when the h3h3Productions channel had just 4k subscribers, Ethan made a video to be posted on the subreddit. In the video, Ethan was mocking people who had "brave" opinions on the Boston Marathon Bombing victims.
 * [This post](https://www.reddit.com/r/pics/comments/22wjk1/boston_marathon_bombing_survivors_return_to/?sort=controversial) was one of the main examples. You can see that the controversial comments are quite inflammatory and disturbing. [1](https://imgur.com/a/csoJsn2)
 
-## Snark
+## Lie
 
 * Ethan sexually harassed a Boston Marathon victim who was a minor.
 

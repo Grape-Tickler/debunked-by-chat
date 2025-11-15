@@ -10,7 +10,7 @@ description: "Did Hila deny that the IDF was killing innocent Palestinian civili
 * Several countries worldwide have designated Hamas as a terrorist organization. [2](https://en.wikipedia.org/wiki/Hamas)
 
 
-## Snark
+## Lie
 
 * During their discussion about the October 7th attacks, Hila interjected by stating that she denies that the IDF commits acts of violence against Palestinians. She was quoted as saying "I am, I am denying that". [3](https://www.reddit.com/r/h3snark/comments/1749jmg/hila_klein_i_am_im_denying_that/)
 
@@ -37,4 +37,4 @@ description: "Did Hila deny that the IDF was killing innocent Palestinian civili
 ## Conclusion
 
 * Hila was misquoted by bad actors as saying "I am denying that" regarding the IDF's violence against innocents.
-* In reality, Hila was denying the scale of the violence, which people were falsely comparing to the October 7th attacks. At the time, this was often done to dismiss people's concern over the attacks.
+* In reality, Hila was focused on denying rhetoric that was being used to down play the severity of the violence that was done against Israeli civilians.
