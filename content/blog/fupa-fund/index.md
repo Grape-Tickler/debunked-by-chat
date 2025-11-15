@@ -22,6 +22,7 @@ Ethan committed some sort of financial impropriety with the FUPA fund.
 * The creation of the fund was guided by the advice of their original attorney, who proved to be incorrect that this non profit would be able to legally be used to even support the Kleins. [5](https://www.youtube.com/watch?v=B4YLocxPd10&t=32m27s)
 * The result of the lawsuit, was establishing a case law precedent for all reaction content. Proving that H3's reaction was "quintessential fair use" and protecting future creators from legal threats over fair use commentary. [6](https://www.youtube.com/watch?v=9eN0CIyF2ok&t=14m16s)
 * The legal defense, however, ended up costing well over $170k. With even the first month of fees totalling over $56k. This was well past the estimate of their original lawyer and caused Ethan and Hila to additionally pay over $50k out of their own pocket. [7](http://youtube.com/watch?v=m40bWgWH8Ro&t=2m45s)
+* Although the FUPA fund did not materialize, Ethan and Hila continue to advocate for small creators against abuses of fair use. The House of Tabula, for example, praised Ethan and Hila for helping with a predatory lawsuit against them. [8](https://archive.org/details/youtube_UCL5kBJmBUVFLYBDiSiK1VDw/My+Lawsuit+Is+Over-8BsTftwLU7M.mp4)
 * There is **not a single** reputable news source that alleges any financial impropriety on the Kleins.
 * [This is an in-depth, 41m video that delves deeper into the topic](https://www.youtube.com/watch?v=B4YLocxPd10)
 
