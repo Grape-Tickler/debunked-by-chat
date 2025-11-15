@@ -10,11 +10,11 @@ description: "Did Hila deny that the IDF was killing innocent Palestinian civili
 * Several countries worldwide have designated Hamas as a terrorist organization. [2](https://en.wikipedia.org/wiki/Hamas)
 
 
-## Myth
+## Snark
 
 * During their discussion about the October 7th attacks, Hila interjected by stating that she denies that the IDF commits acts of violence against Palestinians. She was quoted as saying "I am, I am denying that". [3](https://www.reddit.com/r/h3snark/comments/1749jmg/hila_klein_i_am_im_denying_that/)
 
-## Reality
+## Truth
 
 * During their discussion, Ethan was talking about Hamas and rejecting the notion that they are "Freedom Fighters" while also calling them terrorists who target civilians.[4](https://www.youtube.com/watch?v=ZNFeRPMOu8g&t=5725) Hila interjected by repeating a comment from a chatter saying that "Israel does *that* on the daily". Ethan interrupted Hila, causing the conversation to split into two parallel interpretations:
    * Ethan, continuing his train of thought, addressed the comment as "Israel also kills innocent civilians and children on the daily" which he stated he doesn't deny.
